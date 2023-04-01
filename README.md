@@ -9,6 +9,11 @@
 -------------------------------------------
 
 ## Profile
+
+- 윤희연()
+> phone: 010-9261-3422 <br>
+> e-mail: dkzndk05@naver.com<br>
+> 
 - 이영주(전자공학과)
 > phone: 010-4057-3740 <br>
 > e-mail: magic3740@naver.com
@@ -25,9 +30,6 @@
 > phone: 010-5580-8941 <br>
 > e-mail: ghdthgml3578@naver.com
 
-- 윤희연(빅데이터학과)
-> phone: 010-9261-3422 <br>
-> e-mail: dkzndk05@naver.com<br>
 
 ---------------------------------------
 
